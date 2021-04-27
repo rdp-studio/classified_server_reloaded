@@ -1,0 +1,8 @@
+setuptools
+wheel
+pycryptodome
+configparser
+rsa
+colorama
+sty
+M2Crypto
